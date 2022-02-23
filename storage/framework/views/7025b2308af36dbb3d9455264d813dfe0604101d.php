@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\ecomfinal616\ecom\resources\views/admin/product/manage.blade.php ENDPATH**/ ?>
